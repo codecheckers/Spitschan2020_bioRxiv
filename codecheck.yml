@@ -33,8 +33,8 @@ codechecker:
     ORCID: 0000-0002-5361-6285
 
 summary: >
-  This reproduction 
-repository: https://github.com/codecheckers/Reproduction-Hancock
-check_time: "2020-04-13 10:00:00"
-certificate: 2020-XYZ
+  This reproduction successfully reproduced all figures output by the original code. All original MATLAB code was provided and the reproduction had a small compute time.
+repository: https://github.com/codecheckers/Spitschan2020_bioRxiv
+check_time: "2020-07-14 16:00:00"
+certificate: 2020-013
 report: https://doi.org/10.5281/zenodo.FIXME
