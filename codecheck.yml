@@ -1,0 +1,40 @@
+---
+version: https://codecheck.org.uk/spec/config/1.0
+
+paper:
+  title: >
+    Rest-activity cycles and melatonin phase angle of circadian entrainment in people without cone-mediated vision
+  authors:
+    - name: Manuel Spitschan
+    - name: Corrado Garbazza
+    - name: Susanne Kohl
+    - name: Christian Cajochen
+      ORCID: http://orcid.org/0000-0002-8572-9268
+  reference: >
+    bioRxiv (2020)
+    https://www.biorxiv.org/content/10.1101/2020.06.02.129502v1
+
+manifest:
+  - file: figures/raw/Fig1.png
+    comment: manuscript Figure 1
+  - file: figures/raw/Fig2.png
+    comment: manuscript Figure 2
+  - file: figures/raw/Fig3.png
+    comment: manuscript Figure 3
+  - file: figures/raw/Fig5.png
+    comment: manuscript Figure 5
+  - file: figures/raw/Fig6.png
+    comment: manuscript Figure 6
+  - file: figures/raw/Fig7.png
+    comment: manuscript Figure 7
+
+codechecker:
+  - name: Iain Davies
+    ORCID: 0000-0002-5361-6285
+
+summary: >
+  This reproduction 
+repository: https://github.com/codecheckers/Reproduction-Hancock
+check_time: "2020-04-13 10:00:00"
+certificate: 2020-XYZ
+report: https://doi.org/10.5281/zenodo.FIXME
