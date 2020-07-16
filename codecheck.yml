@@ -15,17 +15,17 @@ paper:
     https://www.biorxiv.org/content/10.1101/2020.06.02.129502v1
 
 manifest:
-  - file: figures/raw/Fig1.png
+  - file: figures/raw/Fig1.pdf
     comment: manuscript Figure 1
-  - file: figures/raw/Fig2.png
+  - file: figures/raw/Fig2.pdf
     comment: manuscript Figure 2
-  - file: figures/raw/Fig3.png
+  - file: figures/raw/Fig3.pdf
     comment: manuscript Figure 3
-  - file: figures/raw/Fig5.png
+  - file: figures/raw/Fig5.pdf
     comment: manuscript Figure 5
-  - file: figures/raw/Fig6.png
+  - file: figures/raw/Fig6.pdf
     comment: manuscript Figure 6
-  - file: figures/raw/Fig7.png
+  - file: figures/raw/Fig7.pdf
     comment: manuscript Figure 7
 
 codechecker:
