@@ -79,7 +79,7 @@ This took ... minutes to complete on {a large workstation, my laptop}.
 
 \clearpage
 
-```{r, echo=FALSE, fig.cap=manifest_df[1:7,"comment"]}
+```{r, echo=FALSE, fig.cap=manifest_df[1:6,"comment"]}
 # TODO turn into a loop 
 knitr::include_graphics(manifest_df[1, "dest"])
 cat('\n\n')
@@ -93,7 +93,6 @@ knitr::include_graphics(manifest_df[5, "dest"])
 cat('\n\n')
 knitr::include_graphics(manifest_df[6, "dest"])
 cat('\n\n')
-knitr::include_graphics(manifest_df[7, "dest"])
 ```
 
 \clearpage
