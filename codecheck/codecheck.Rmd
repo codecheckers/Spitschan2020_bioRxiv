@@ -58,23 +58,20 @@ latex_summary_of_manifest(metadata, manifest_df, root)
 
 # Summary
 
-This code was (not) straightforward to codecheck.
-[... ADD MORE INTERESTING FINDINGS HERE..]
+This code was straightforward to check. All original code was provided and figures were reproduced as expected.
 
 \clearpage
 
 # CODECHECKER notes
 
-The GitHub repo ...
-Code was written in ...
-I went through the following steps ...
-One hard problem was ...
-
+The original code was provided in the GitHub repo here: https://github.com/spitschan/Spitschan2020_bioRxiv.
+Code was written in MATLAB and instructions to run were clearly given in the README. 
+I cloned the repo, removed the figures in the figures folder and then ran the s_runAllCode.m script in a MATLAB console. All figures were reproduced and saved into the figures folder. The script took This took 2 minutes to run on a department workstation.
 
 ## License information
 
 The code required some matlab toolboxes.  I ran the following after
-running their scripts to identify the licenses
+running their scripts to identify the licenses:
 
 ```
 >> license('inuse')
@@ -83,8 +80,6 @@ matlab
 signal_toolbox
 statistics_toolbox
 ```
-
-This took ... minutes to complete on {a large workstation, my laptop}.
 
 \setcounter{table}{0}
 \setcounter{figure}{0}
