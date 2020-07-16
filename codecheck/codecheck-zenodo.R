@@ -5,7 +5,8 @@
 
 
 library("codecheck")
-
+library("zen4R")
+library("yaml")
 
 ## Part one: create a new record ---------------------------------------
 ## You need do this only once for the certificate.
