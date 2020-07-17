@@ -16,14 +16,14 @@ paper:
 
 manifest:
   - file: figures/raw/Fig1.pdf
-    comment: manuscript Figure 1
+    comment: manuscript Figure 1 (panel D only)
   - file: figures/raw/Fig2.pdf
     comment: manuscript Figure 2
   - file: figures/raw/Fig3.pdf
     comment: manuscript Figure 3
-  - file: figures/raw/Fig5.pdf
-    comment: manuscript Figure 5
   - file: figures/raw/Fig6.pdf
+    comment: manuscript Figure 5
+  - file: figures/raw/Fig5.pdf
     comment: manuscript Figure 6
   - file: figures/raw/Fig7.pdf
     comment: manuscript Figure 7
