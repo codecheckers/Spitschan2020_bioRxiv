@@ -58,7 +58,7 @@ latex_summary_of_manifest(metadata, manifest_df, root)
 
 # Summary
 
-This code was straightforward to check. All original code was provided and figures were reproduced as expected.
+This code was straightforward to check. All original code was provided and figures were reproduced with most features the same as in the original paper.
 
 \clearpage
 
@@ -66,7 +66,7 @@ This code was straightforward to check. All original code was provided and figur
 
 The original code was provided in the GitHub repo here: https://github.com/spitschan/Spitschan2020_bioRxiv.
 Code was written in MATLAB and instructions to run were clearly given in the README. 
-I cloned the repo, removed the figures in the figures folder and then ran the s_runAllCode.m script in a MATLAB console. All figures were reproduced and saved into the figures folder. The script took This took 2 minutes to run on a department workstation.
+I cloned the repo, removed the figures in the figures folder and then ran the s_runAllCode.m script in a MATLAB console. The reproduced figures were automatically saved into the figures folder. The script took 2 minutes to run on a department workstation. The figures were largely reproduced as in the original paper. Figure 2 reproduced panel D only, however as panel B differs only from panel D in the colours used, this didn't reduce the results reproduced. Other reproduced figures were missing labels and legends present in the paper, and Figure C5 (manuscript Figure 6) had the coloured bars above rather than below the graphs. However, data in the figures was reproduced as expected.
 
 ## License information
 
