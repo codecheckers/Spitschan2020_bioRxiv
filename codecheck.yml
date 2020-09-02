@@ -6,13 +6,14 @@ paper:
     Rest-activity cycles and melatonin phase angle of circadian entrainment in people without cone-mediated vision
   authors:
     - name: Manuel Spitschan
+      ORCID: 0000-0002-8572-9268
     - name: Corrado Garbazza
+      ORCID: 0000-0002-8606-2944
     - name: Susanne Kohl
+      ORCID: 0000-0002-6438-6331
     - name: Christian Cajochen
-      ORCID: http://orcid.org/0000-0002-8572-9268
-  reference: >
-    bioRxiv (2020)
-    https://www.biorxiv.org/content/10.1101/2020.06.02.129502v1
+      ORCID: 0000-0002-8572-9268
+  reference: https://doi.org/10.1101/2020.06.02.129502
 
 manifest:
   - file: figures/raw/Fig1.pdf
